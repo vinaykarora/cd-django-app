@@ -161,4 +161,4 @@ It should look something like this:
 
 Created by:
 
-- [Ryuichi Miyazaki](https://github.com/rmiyazaki6499)
+- [Vinay Arora](https://github.com/vinaykarora)
